@@ -1,5 +1,8 @@
 # ClaudeTokenMonitor
 
+> Written by [Claude](https://claude.com/claude-code) (Anthropic's AI, in
+> conversation with the repo owner) — not hand-coded by a human.
+
 Claude usage (5-hour session + weekly window) in the macOS menu bar. Native
 Swift, zero third-party dependencies — only Cocoa / Foundation / Security /
 SQLite3 / CommonCrypto, all part of the OS.
